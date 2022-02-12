@@ -1,6 +1,9 @@
 `keep watching`
 
 [**project progress** ~~p~~**logs**](https://github.com/cyrusae/logs)
+
+> *Man Allows Himself to Be Peer-Pressured Back into Coding after Years of Pretending That Being Discouraged from Pursuing It as a Teenager Had Hurt - You Won't Believe What Happens Next*
+
 <!--
 **cyrusae/cyrusae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
