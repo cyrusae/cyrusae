@@ -1,6 +1,6 @@
 `keep watching`
 
-> *Man Allows Himself to Be Peer-Pressured Back Into Coding After Years of Pretending That Being Discouraged from Pursuing It as a Teenager Didn't Hurt - You Won't Believe What Happens Next*
+> *Man Allows Himself to Be Peer-Pressured Back Into Coding After Years of Pretending That Being Discouraged From Pursuing It as a Teenager Didn't Hurt - You Won't Believe What Happens Next*
 
 [**project progress** ~~p~~**logs**](https://github.com/cyrusae/logs)
 
