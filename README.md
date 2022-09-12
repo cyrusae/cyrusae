@@ -1,7 +1,7 @@
 `keep watching`
 
 ### [**project progress** ~~p~~**logs**](https://github.com/cyrusae/logs) 
-*(currently in need of updating because I have been busy with surgery things. back in action though!)*
+*(currently in need of updating because I was busy with surgery things. back in action though!)*
 <!--
 **cyrusae/cyrusae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
